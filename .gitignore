@@ -2,3 +2,7 @@ export-calendar.applescript
 
 update-availability.sh
 update.log
+
+busy-eventkit-test.json
+launchagent-error.log
+launchagent.log
